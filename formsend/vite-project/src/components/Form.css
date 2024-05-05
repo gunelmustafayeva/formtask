@@ -1,0 +1,27 @@
+form{
+    width: 30%;
+    padding: 3%;
+    background-color: black;
+    color: white;
+    margin: 100px auto;
+}
+form input{
+    width: 95%;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+form textarea{
+    width: 95%;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+form button{
+    width: 20%;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+}
